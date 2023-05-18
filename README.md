@@ -1,5 +1,7 @@
 # Mini Voice Assistant - Pipi ✨
 
+## A little fun project 🙃
+
 #### What can Pipi do:
 ***
 - It can play some music 🎶 for you.
